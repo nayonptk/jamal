@@ -1,0 +1,410 @@
+/* Tablet Layout: 768px. */
+
+@media only screen and (min-width: 768px) and (max-width: 991px) {
+
+
+.width{width:975px}
+
+.slicknav_menu{display:block;}
+
+.menu-area {
+  display: none;
+}
+
+.header-left-hometext ul li {
+    padding: 4px 4px;
+}
+.header-center-search-box input {
+    width: 400px;
+    padding: 4px 10px;
+    border: 1px solid black;
+    border-radius: 14px;
+}
+.header-search-icon {
+	top: 0px;
+    left: 95%;
+    border-radius: 0px 15px 15px 0px;
+    padding: 6px 6px;
+}
+.header-center {
+    margin-left: 3%;
+}
+.header-right-content ul li {
+
+    padding: 4px 4px;
+}
+.header-left-icon a img {
+    width: 44px;
+    height: 22px;
+}
+.header-search-icon i {
+    font-size: 16px;
+}
+.header{
+    padding: 6px;
+}
+.title h2 {
+
+    font-size: 24px;
+}
+.title {
+    width: 100%;
+    margin: 0 auto;
+    text-align: center;
+}
+.marquee-title {
+
+padding: 7.5px;
+}
+
+
+.web-block-area {
+    margin-right: 6px;
+}
+.web-block {
+    width: 130px;
+}
+.web-block-area2 {
+    margin-left: 5px;
+}
+.country ul ul li h4 {
+    padding: 0px;
+    font-size: 21px;
+}
+.country ul li {
+    padding-top: 4px;
+    border: 1px solid gray;
+    font-size: 20px;
+    padding-bottom: 5px;
+}
+.country-icon-title h2 {
+    font-size: 28px;
+    padding-bottom: 6px;
+}
+.country-area1 {
+    width: 128px;
+}
+
+
+
+
+.post-left-site {
+    width: 41%;
+
+}
+.post-left-title h2 {
+    text-align: center;
+    font-size: 20px;
+
+}
+.post-right-site {
+    display: inline-block;
+    border: 1px solid black;
+    float: left;
+    padding: 7px;
+    margin-top: 0;
+    width: 30.4%;
+}
+.scole-icon {
+
+    bottom: 643px;
+    right: 123px;
+}
+.copyright-left {
+    display: flex;
+    float: left;
+    margin-left: 63px;
+}
+.copyright-right {
+    display: flex;
+    margin-left: 35%;
+}
+.copyright {
+    padding-bottom: 16px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+}
+
+
+
+/* Mobile Layout: 320px. */
+
+@media only screen and (max-width: 479px) {
+.slicknav_menu{display:block;}
+	
+.width {width:320px}
+
+
+.header-left-hometext ul {
+    display: none;
+}
+.header-center-search-box input {
+    width:240px;
+    padding: 5px 5px;
+    border: 3px solid black;
+    border-radius: 11px;
+}
+.header-search-icon {
+    top: 1px;
+    left:86%;
+    border-radius: 0px 11px 11px 0px;
+    padding: 5px;
+}	
+.header-center {
+    display: inline-block;
+    position: relative;
+}	
+.header-right {
+    
+}	
+.header-left-icon {
+    margin-top: 4px;
+}
+.header-left-icon a i {
+    font-size: 28px;
+}	
+.header-center {
+    margin-right: 0;
+}
+.header-right {
+    display: none;
+}	
+.title {
+    width: 320px;
+    margin: 0;
+}	
+.title h2 {
+    margin-top: 13px;
+    font-size: 18px;
+    font-weight: bold;
+}	
+.title p {
+    display: none;
+}	
+.menu-one-line {
+    display: none;
+}	
+.menu-title2 {
+    display: block;
+    margin-top: 5px;
+	width: 100%;
+    padding: 8px;
+    text-align: center;
+}	
+.start-menu2 ul li {
+    list-style: none;
+    display: inline-block;
+    text-align: left;
+    padding: 8px 4px 8px 4px;
+	border-right:1px solid #ddd;
+    width: 98px;
+}	
+.marquee-area {
+    margin-top: -30px;
+}	
+.marquee-title {
+    padding: 9px 7px 7px 5px;
+}	
+.marquee-start {
+    padding: 4.5px;
+}	
+.marquee-start marquee {
+    font-size: 14px;
+}	
+.web-block {
+    width: 77px;
+}	
+.post-left-site {
+    width: 74%;
+}	
+.web-block-area {
+    margin-right: 5px;
+}	
+.post-left-title h2 {
+    margin: 0;
+    text-align: center;
+    font-size: 19px;
+}
+.post-right-site {
+    float: left;
+    padding: 11px;
+    margin-top: 0;
+    width: 74%;
+}
+.post-right-site-title h2 {
+    text-align: center;
+}
+	
+.web-block-area2 {
+
+    margin-left: 0;
+    margin-top: -202px;
+}	
+.web-block-area2 {
+ 
+    display: none;
+
+}	.footer-importent-center {
+
+    text-align: center;
+    width: 100%;
+}
+	.footer-rt-flow {
+
+    width: 20%;
+}
+.copyright-right {
+
+    margin-left: 0;
+    text-align: center;
+}
+.scole-icon i {
+
+    font-size: 30px;
+}	
+.scole-icon {
+
+    bottom: 78px;
+    right: 15px;
+}	
+	
+
+}
+
+
+
+
+
+/* Wide Mobile Layout: 480px. */
+
+@media only screen and (min-width: 480px) and (max-width: 767px) {
+
+
+.width{width:768px}
+
+.slicknav_menu{display:block;}
+
+.menu-area {
+  display: none;
+}
+
+.header-left-hometext ul li {
+    padding: 4px 4px;
+}
+.header-center-search-box input {
+    width: 240px;
+    padding: 4px 10px;
+    border: 1px solid black;
+    border-radius: 14px;
+}
+.header-search-icon {
+	top: 0px;
+    left: 95%;
+    border-radius: 0px 15px 15px 0px;
+    padding: 6px 6px;
+}
+.header-center {
+    margin-right: 17px;
+}
+.header-right-content ul li {
+
+    padding: 4px 4px;
+}
+.header-left-icon a img {
+    width: 44px;
+    height: 22px;
+}
+.header-search-icon i {
+    font-size: 16px;
+}
+.title h2 {
+
+    font-size: 24px;
+}
+.title {
+    width: 100%;
+    margin: 0 auto;
+    text-align: center;
+}
+.marquee-title {
+
+    padding: 11px 18px 9px 18px;
+}
+
+
+.web-block-area {
+    margin-right: 6px;
+}
+.web-block {
+    width: 104px;
+}
+.web-block-area2 {
+    margin-left: 5px;
+}
+.country ul ul li h4 {
+    padding: 0px;
+	font-size: 15px;
+}
+.country ul li {
+    padding-top: 4px;
+    border: 1px solid gray;
+    padding-bottom: 5px;
+}
+.country-icon-title h2 {
+    font-size: 17px;
+    padding-bottom: 6px;
+}
+
+.post-left-site {
+    width: 41%;
+
+}
+.post-left-title h2 {
+    text-align: center;
+    font-size: 20px;
+
+}
+.post-right-site {
+    display: inline-block;
+    border: 1px solid black;
+    float: left;
+    padding: 7px;
+    margin-top: 0;
+    width: 30.4%;
+}
+.scole-icon {
+
+    bottom: 643px;
+    right: 123px;
+}
+.copyright-left {
+    display: flex;
+    float: left;
+    margin-left: 63px;
+}
+.copyright-right {
+    display: flex;
+    margin-left: 35%;
+}
+.copyright {
+    padding-bottom: 16px;
+}
+}
+
+
